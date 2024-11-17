@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Pictures/efefe"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "efefe"
+	}
+}
